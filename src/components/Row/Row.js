@@ -22,7 +22,6 @@ const Row = ({ title, fetchUrl, isLargeRow }) => {
     height: "390",
     width: "740",
     playerVars: {
-      // https://developers.google.com/youtube/player_parameters
       autoplay: 1,
     },
   };
